@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+*Test.hs
+Mooc
+score.json
+stack*
+tests.cabal
+.stack-work
