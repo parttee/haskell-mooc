@@ -1,2 +1,2 @@
 # haskell-mooc
-Haskel course, University of Helsinki (MOOC)
+Haskel course 2020, University of Helsinki (MOOC)
